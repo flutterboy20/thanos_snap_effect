@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:snappable/snappable.dart';
 
 void main() => runApp(
-      MyApp(), // Wrap your appq
+      MyApp(), // Wrap your app
     );
 
 class MyApp extends StatelessWidget {
